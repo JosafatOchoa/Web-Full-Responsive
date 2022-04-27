@@ -1,0 +1,22 @@
+
+.articles-form-container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+.container-articles{
+
+    width: 60%;
+
+}
+
+.title-articles{
+    background: var(--grey-light);
+    height: 8rem;
+    padding: 2.5rem;
+    font-size: 2rem;
+    text-align: center;
+    box-shadow: 3px 3px 2px var(--black);
+}

@@ -1,0 +1,12 @@
+@import './base-styles/baseStyles.css';
+@import './components-styles/styles-header.css';
+@import './components-styles/sidebar.css';
+@import './components-styles/banner.css';
+@import './components-styles/Cards.css';
+@import './components-styles/aside.css';
+@import './components-styles/section-articles.css';
+@import './components-styles/Articles.css';
+@import './components-styles/footer.css';
+@import './base-styles/medaQueries.css'
+
+

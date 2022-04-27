@@ -1,0 +1,34 @@
+.sidebar{
+    display: none;
+    background: var(--black-light);
+    height: 100vh;
+    width: 80vw;
+    position: fixed;
+    right: 0;
+    top: 9rem ;
+    color: var(--white);
+    padding: 4rem;
+    transition: all .8s;
+    z-index: 100;
+}
+
+.container-nav-hide{
+    height: 100%;
+    display: flex;
+    font-size: 2rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10rem;
+    
+}
+
+.item-nav-hide{
+
+    border-bottom: 1px solid var(--white);
+
+}
+
+
+.sidebar-hide{
+    right: -80rem;
+}
